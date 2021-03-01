@@ -1,0 +1,6 @@
+[
+    {  "domain": "linkedin.com", "type": "class", "action": "hide", "value": "artdeco-global-alert artdeco-global-alert--NOTICE artdeco-global-alert--COOKIE_CONSENT"},
+    {  "domain": "gazeta.pl","type": "id", "action": "click", "value": "onetrust-accept-btn-handler"   },
+    {  "domain": "facebook.com","type": "class", "action": "click", "value": "_42ft _4jy0 _9o-t _4jy3 _4jy1 selected _51sy"},
+    {   "domain": "developer.chrome.com", "type": "class", "action": "hide", "value": "cookie-banner" }
+]
